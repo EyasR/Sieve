@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Lab2_EyasRashid1/sieve.cpp
+iostream
+-
+vector
+-
+math.h
+-
+sys/time.h
+-
+fstream
+-
+
